@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [YOUR NAME]
-description: [Turning Data into insights]
+title: [Md. Towhidul Islam Towhid's Inventory]
+description: [Curious and driven science and technology student specializing in computer systems and automation, with hands-on experience from certifications, seminars, and real-world projects in PLC programming, AI, and robotics. Seeking international education to deepen technical expertise, collaborate with diverse peers, and contribute to innovation on a global scale. Curious and driven science and technology student specializing in computer systems and automation, with hands-on experience from certifications, seminars, and real-world projects in PLC programming, AI, and robotics. Seeking international education to deepen technical expertise, collaborate with diverse peers, and contribute to innovation on a global scale.]
